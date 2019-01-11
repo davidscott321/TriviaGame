@@ -1,0 +1,48 @@
+body
+{
+    background-image: url('../images/background.jpg');
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+}
+.centered
+{
+    text-align: center;
+    font-weight: bold;
+}
+img
+{
+    width: 40%;
+}
+.logo
+{
+    width: 15%;
+    background-color: black;
+}
+.content
+{
+    background-color: red;
+    color: black;
+    font-size: 24px;
+}
+h1
+{
+    font-size: 60px;
+    background-color: red;
+}
+.startButton,
+.endButton
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+.containers
+{
+    background-color: black;
+}
+.timer,
+.choices,
+.red
+{
+    background-color: red;
+}
